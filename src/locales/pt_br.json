@@ -1,0 +1,8 @@
+{
+    "app": "R4 Frontend",
+    "auth": {
+        "email": "Email",
+        "password": "Senha",
+        "login": "Entrar"
+    }
+}
